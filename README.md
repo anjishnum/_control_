@@ -1,3 +1,3 @@
 # Control
-<h2> Why this repo? </h2>
+<h2><i> Why this repo? </i></h2>
 
