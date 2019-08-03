@@ -16,3 +16,4 @@ $ rosrun rqt_graph rqt_graph
 $ rosrun rqt_plot rqt_plot
 
 
+$ rostopic hz /turtle1/pose
