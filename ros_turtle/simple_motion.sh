@@ -1,3 +1,4 @@
+# roscore = master + rosout + parameter server
 $ roscore
 
 
