@@ -13,3 +13,6 @@ $ rostopic pub -r 1 /turtle1/cmd_vel geometry_msgs/Twist -- '[5.0, 0.0, 0.0]' '[
 $ rosrun rqt_graph rqt_graph
 
 
+$ rosrun rqt_plot rqt_plot
+
+
