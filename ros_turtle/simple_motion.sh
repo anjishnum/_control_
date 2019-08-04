@@ -18,5 +18,5 @@ $ rosrun rqt_graph rqt_graph
 # Displays real-time linear and angular motion (uses matplotlib)
 $ rosrun rqt_plot rqt_plot
 
-
+# Publishes data on turtle @60Hz
 $ rostopic hz /turtle1/pose
