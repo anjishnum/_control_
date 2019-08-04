@@ -1,4 +1,4 @@
-# roscore = master + rosout + parameter server
+
 $ roscore
 
 # Runs turtlesim_node from the package turtlesim
