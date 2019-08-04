@@ -12,10 +12,10 @@ $ rosrun turtle
 # geometry_msgs/Twist => message type to use when publishing; -- => option parser; '[5.0, 0.0, 0.0]' '[0.0, 0.0, 3]' => Linear & angular x,y,z values
 $ rostopic pub -r 1 /turtle1/cmd_vel geometry_msgs/Twist -- '[5.0, 0.0, 0.0]' '[0.0, 0.0, 3]'
 
-
+# Displays connections between the various nodes and topics
 $ rosrun rqt_graph rqt_graph
 
-# Displays real-time linear and angular motion (uses matplotlib)
+
 $ rosrun rqt_plot rqt_plot
 
 # Publishes data on turtle @60Hz
